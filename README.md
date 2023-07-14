@@ -15,4 +15,5 @@ Develop a statistical or machine learning model to investigate the relationship 
 # Hypothesis Testing and Conclusion: 
 Perform hypothesis testing to determine the validity of the statement. Based on the results, evaluate the null hypothesis, which states that the variable "Likes" does not have a significant relationship with the variable "Views" in the population. If the null hypothesis is rejected, accept the alternative hypothesis, indicating a significant relationship between "Likes" and "Views" in the population. Provide a conclusive analysis and interpretation of the findings, considering any limitations or potential sources of error in the study.
 
-# In conclusion, our analysis led to the rejection of the null hypothesis, providing evidence that the variable "Likes" indeed has a significant relationship with the variable "Views" in the population. This finding supports the assertion that the number of likes received by a video is correlated with its corresponding number of views.
+# Conclusion:
+Our analysis led to the rejection of the null hypothesis, providing evidence that the variable "Likes" indeed has a significant relationship with the variable "Views" in the population. This finding supports the assertion that the number of likes received by a video is correlated with its corresponding number of views.
